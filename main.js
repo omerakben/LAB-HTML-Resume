@@ -1,0 +1,1 @@
+console.log("Omer OZZY Akben's resume. ");
